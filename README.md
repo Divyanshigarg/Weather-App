@@ -8,5 +8,5 @@ Code <b>tag</b>.
 
 ## 1. Create a new angular project
 ```
-ng create angular <b>tag</b>.
+ng create angular
 ```
